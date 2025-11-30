@@ -1,5 +1,4 @@
 ## Instalación
-[⬅️Terminos & Condiciones(README.md)
 - **Plataforma:** Android
 - Descarga el archivo APK desde la sección de [releases](https://github.com/GalenKishi/FurEverHome/releases).
 - Asegúrate de habilitar la instalación de aplicaciones de fuentes desconocidas en tu dispositivo Android.
