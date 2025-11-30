@@ -1,4 +1,4 @@
-[⬅️ Volver al README principal](README.md)
+[⬅️ Volver al README principal]([README.md](https://github.com/GalenKishi/FurEverHome/blob/main/Terms%26Conditions.md))
 
 # Terms & Conditions 
 
