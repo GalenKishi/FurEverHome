@@ -1,5 +1,3 @@
-[⬅️ Volver al README principal]([README.md](https://github.com/GalenKishi/FurEverHome/blob/main/Terms%26Conditions.md))
-
 # Terms & Conditions 
 
 These terms and conditions apply to the FurEverHome app (hereby referred to as "Application") for mobile devices that was created by KishiKun (hereby referred to as "Service Provider") as a Freemium service.
